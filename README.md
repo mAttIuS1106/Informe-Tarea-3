@@ -88,25 +88,33 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
   
   34.Encuentre R1, R2 y R3 en la figura 5-82.
   
-  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2034.PNG)
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2034(2).PNG)
   
   36.Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del             interruptor.
   
-  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2036.PNG)
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2036(2).PNG)
   
   38.Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
   
-  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2038.PNG)
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2038(2).PNG)
   
   40.Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2040.PNG)
+  
   42.En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2042.PNG)
   
   44.Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes         aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V,y 24.6 V. La corriente extraída de la fuente debe limitarse a     no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe               proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
   
   46.Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2046.PNG)
+  
   48.Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kohms, 2.2 kohms, 3.9 kohms, y 5.6 kohms. ¿Cuál es el voltaje máximo que     puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un         voltaje excesivo?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2048.PNG)
   
   50.Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de         2400ohms. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
         (a) I 
@@ -115,11 +123,17 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
         
    52.En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
    
+   ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2052.PNG)
+   
    54.Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está    mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+   
+   ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2054.PNG)
    
    56.¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
    
-   58.Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93 ¿Indica esto un problema? De ser así,        identifíquelo.
+   ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2056.PNG)
+   
+   58.Se leen 15 kohms entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93 ¿Indica esto un problema? De ser así,        identifíquelo.
    
    60.Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí        para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se    coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De            improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
    
@@ -132,6 +146,8 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
    CAPÍTULO 6 
    
    2.Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+   
+   ![](
    
    4.¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia    total de 550 ohms? Hay cuatro resistores, todos de igual valor.
    
