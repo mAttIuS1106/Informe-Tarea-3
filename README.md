@@ -25,24 +25,41 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
   2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
   4.Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%204.PNG)
 
   6.¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de     120 ohms?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%206.PNG)
 
   8.Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la         corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%208.PNG)
 
   10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 ohms, 2.2 ohms, 5.6 ohms,12 ohms, y 22 ohms. Determine   la resistencia   total.
+
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2010.PNG)
 
   12.Calcule la RT en cada circuito de la figura 5-71.
   
   14.Se conectan en serie seis resistores de 56 ohms, ocho de 100 ohms, y dos de 22 ohms. ¿Cuál es la resistencia total?
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2010.PNG)
+  
   16.Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 ohms, 100 ohms, 470 ohms, 560 ohms, 680     ohms, 1.0 kohms, 2.2 kohms, y 5.6 kohms. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere   emplear una resistencia de 18 kohms. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2016.PNG)
+  
+ 
   18.En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2018.PNG)
   
   20.Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
   
   22.Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2022.PNG)
   
   24.Determine VR1, R2 y R3 en la figura 5-76.
   
@@ -50,8 +67,12 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
 
 
   28.El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están   en oposición en serie, ¿cuál es el voltaje total?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2028.PNG)
 
   30.Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del       voltaje de la fuente al que están conectados estos resistores?
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2030.PNG)
   
   32.Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para       medir cada una de las caídas de voltaje desconocidas.
   
@@ -106,7 +127,7 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
    
    12.En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos            lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está        conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a    la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de      corriente? Trace un diagrama esquemático de esta instalación eléctrica.
    
-   14.Los siguientes resistores están conectados en paralelo: 1.0 MÆ, 2.2 MÆ, 5.6 MÆ, 12 MÆ, y 22 MÆ. Determine la resistencia total.
+   14.Los siguientes resistores están conectados en paralelo: 1.0 Mohm, 2.2 Mohm, 5.6 Mohm, 12 Mohm, y 22 Mohm. Determine la resistencia total.
 
 
 
