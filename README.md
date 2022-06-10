@@ -42,6 +42,8 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
 
   12.Calcule la RT en cada circuito de la figura 5-71.
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2012.PNG)
+  
   14.Se conectan en serie seis resistores de 56 ohms, ocho de 100 ohms, y dos de 22 ohms. ¿Cuál es la resistencia total?
   
   ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2010.PNG)
@@ -57,13 +59,19 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
   
   20.Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2020.PNG)
+  
   22.Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
   
   ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2022.PNG)
   
   24.Determine VR1, R2 y R3 en la figura 5-76.
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2024(2).PNG)
+  
   26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2026(2).PNG)
 
 
   28.El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están   en oposición en serie, ¿cuál es el voltaje total?
@@ -76,11 +84,19 @@ Emplear los conocimientos la ley del voltaje de Kirchhoff, un circuito resistivo
   
   32.Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para       medir cada una de las caídas de voltaje desconocidas.
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2032(2).PNG)
+  
   34.Encuentre R1, R2 y R3 en la figura 5-82.
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2034.PNG)
   
   36.Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del             interruptor.
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2036.PNG)
+  
   38.Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-3/blob/main/EJERCICIO%2038.PNG)
   
   40.Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
   
